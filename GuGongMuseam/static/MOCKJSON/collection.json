@@ -1,0 +1,21 @@
+{
+  "status":0,
+  "data":{
+    "total":3,
+    "currentpage":1,
+    "data":[
+      {
+        "id":111,
+        "title":"登峰造极",
+        "img":"https://img.dpm.org.cn/Uploads/Picture/2017/01/06/s586f132b191cd.jpg"
+      },
+      {
+        "id":110,
+        "title":"清代晚期瓷器",
+        "img":"https://img.dpm.org.cn/Uploads/Picture/2017/01/06/s586f13fd39976.jpg"
+      }
+    ],
+    "classname":"乾清宫"
+  },
+  "interpret":"请求成功"
+}

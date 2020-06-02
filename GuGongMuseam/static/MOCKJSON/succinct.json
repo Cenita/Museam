@@ -1,0 +1,17 @@
+{
+  "status":0,
+  "data":[{
+    "id": 201,
+    "img": "https://img.dpm.org.cn/Uploads/Picture/2016/12/22/s585b38f00e48c.jpg",
+    "classname": "太和殿"
+  }, {
+    "id": 171,
+    "img": "https://www.dpm.org.cn/Uploads/Picture/2016/12/22/s585b3852595a2.jpg",
+    "classname": "乾清殿"
+  }, {
+    "id": 136,
+    "img": "https://www.dpm.org.cn/Uploads/Picture/2016/12/22/s585b37f03ce66.jpg",
+    "classname": "坤宁宫"
+  }],
+  "interpret":"请求成功"
+}

@@ -1,0 +1,120 @@
+{
+  "status": 0,
+  "data": {
+    "banner": [{
+      "banner": "https://img.dpm.org.cn/Uploads/Picture/2019/10/11/s5d9fd86065d98.jpg",
+      "note": "故宫一带一路人文摄影展",
+      "url": ""
+    }, {
+      "banner": "https://img.dpm.org.cn/Uploads/Picture/2019/09/16/s5d7f49eef1cf0.jpg",
+      "note": "花木文化特展",
+      "url": ""
+    }, {
+      "banner": "https://img.dpm.org.cn/Uploads/Picture/2019/08/29/s5d672de6b5223.jpg",
+      "note": "穆穆之礼",
+      "url": ""
+    }],
+    "exhibit": [{
+      "id": 92,
+      "title": "绝域苍茫万里行",
+      "introduce": "丝绸之路（乌兹别克斯坦段）考古成果展",
+      "new": 2,
+      "hot": 1
+    }, {
+      "id": 91,
+      "title": "万紫千红",
+      "introduce": "中国古代花木题材文物特展",
+      "new": 2,
+      "hot": 1
+    }, {
+      "id": 90,
+      "title": "穆穆之礼",
+      "introduce": "来自莫斯科克里姆林宫的俄罗斯宫廷典礼展",
+      "new": 2,
+      "hot": 2
+    }, {
+      "id": 89,
+      "title": "良渚与古代中国",
+      "introduce": "玉器显示的五千年文明 ",
+      "new": 2,
+      "hot": 1
+    }],
+    "relic": [{
+      "id": 50,
+      "title": "文明曙光",
+      "introduce": "新石器时代的陶器",
+      "new": 2,
+      "hot": 1
+    }, {
+      "id": 49,
+      "title": "青瓷独秀",
+      "introduce": "三国、两晋、南北朝的陶瓷",
+      "new": 2,
+      "hot": 1
+    }, {
+      "id": 48,
+      "title": "名窑迭出",
+      "introduce": "宋、辽、金、西夏的陶瓷",
+      "new": 2,
+      "hot": 1
+    }, {
+      "id": 47,
+      "title": "繁荣昌盛",
+      "introduce": "明代景德镇官窑及其他地方窑陶瓷",
+      "new": 2,
+      "hot": 1
+    }],
+    "questions": [{
+      "id": 200,
+      "question": "heiheihei",
+      "answer":"bbbb",
+      "addtime": "2019-10-25",
+      "new": 1,
+      "hot": 1,
+      "up": 2
+    }, {
+      "id": 199,
+      "question": "aaa",
+      "addtime": "2019-10-12",
+      "answer":"bbbb",
+      "new": 2,
+      "hot": 1,
+      "up": 2
+    }],
+    "time": {
+      "time_end": "17:00",
+      "time_sta": "09:00"
+    },
+    "switch": "首页公告",
+    "is_acc": "1",
+    "latest": "https://img.dpm.org.cn/Uploads/Picture/2017/01/20/s5881a93f882e4.png",
+    "relic_banner": [{
+      "banner": "https://img.dpm.org.cn/Uploads/Picture/dc/167[1024].jpg"
+    }, {
+      "banner": "https://img.dpm.org.cn/Uploads/Picture/dc/13418[1024].jpg"
+    }, {
+      "banner": "https://img.dpm.org.cn/Uploads/Picture/dc/56113.jpg"
+    }],
+    "exhibit_banners": [{
+      "banner": "https://www.dpm.org.cn/Uploads/Picture/2019/07/10/s5d259d27e6e69.jpg"
+    }, {
+      "banner": "https://www.dpm.org.cn/Uploads/Picture/2019/05/29/s5cede309aa5d9.jpg"
+    }, {
+      "banner": "https://www.dpm.org.cn/Uploads/Picture/2019/02/18/s5c6a64c6c6fa0.png"
+    }],
+    "collection": [{
+      "id": 201,
+      "img": "https://img.dpm.org.cn/Uploads/Picture/2016/12/22/s585b38f00e48c.jpg",
+      "title": "太和殿"
+    }, {
+      "id": 171,
+      "img": "https://www.dpm.org.cn/Uploads/Picture/2016/12/22/s585b3852595a2.jpg",
+      "title": "乾清殿"
+    }, {
+      "id": 136,
+      "img": "https://www.dpm.org.cn/Uploads/Picture/2016/12/22/s585b37f03ce66.jpg",
+      "title": "坤宁宫"
+    }]
+  },
+  "interpret": 0
+}
